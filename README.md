@@ -9,13 +9,13 @@ Alternative installation is possible without local dependencies relying on Docke
 Clone the repository
 
 ```bash
-git clone git@github.com:gothinkster/laravel-realworld-example-app.git
+git clone git@github.com:DionisieGrosu/coffee-shop-api.git
 ```
 
 Switch to the repo folder
 
 ```bash
-cd laravel-realworld-example-app
+cd coffee-shop-api
 ```
 
 Install all the dependencies using composer
